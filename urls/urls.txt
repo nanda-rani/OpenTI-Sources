@@ -1,0 +1,16 @@
+#if_you_want_to_hide_a_url_just_comment_it_like_this_it_wont_be_added_to_url_list_plz_dont_leave_space
+#http://tweettioc.com/feed/url
+http://www.botvrij.eu/data/ioclist.url.raw
+https://futex.re/tracker/TinyTracker.csv
+https://infosec.cert-pa.it/analyze/listurls.txt
+https://openphish.com/feed.txt
+#http://data.phishtank.com/data/online-valid.csv
+http://vxvault.net/URL_List.php
+https://osint.digitalside.it/Threat-Intel/lists/latesturls.txt
+https://malsilo.gitlab.io/feeds/dumps/url_list.txt
+http://api.cybercure.ai/feed/get_url?type=csv
+#https://rstcloud.net/free/ioc/ioc_url_latest.csv
+#https://raw.githubusercontent.com/pan-unit42/iocs/master/diamondfox/diamondfox_panels.txt
+https://benkow.cc/export.php
+https://tracker.h3x.eu/api/sites_1day.php
+https://urlhaus.abuse.ch/downloads/csv_recent/
